@@ -2,8 +2,6 @@
 
 AR-игра для Android на Unity: строишь на полу комнаты постройку из фигур, а потом сбиваешь её шарами, которые вылетают из камеры телефона.
 
-Проект сделан по туториалу [How to make an AR Game in Unity (Beginner Friendly Tutorial)](https://www.youtube.com/watch?v=XZPNRxMvelc) от Alive Studios и расширен: вместо платного ассета AR Magic Bar — свой режим строительства, плюс фигуры, готовые шаблоны, счётчик, звуки и иконка.
-
 ## Возможности
 
 - **AR на ARCore**: поиск горизонтальных поверхностей (пол, стол), фигуры стоят в реальной комнате.
@@ -46,7 +44,3 @@ AR-игра для Android на Unity: строишь на полу комнат
 ## Технологии
 
 Unity 6 · AR Foundation 6.6 · Google ARCore · Input System · uGUI · C#
-
-## Благодарности
-
-Идея и исходные скрипты — туториал Alive Studios, код: [Alive-hub/AR-Game-Beginners-Tutorial](https://github.com/Alive-hub/AR-Game-Beginners-Tutorial) (Apache License 2.0). Подробности — в [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
