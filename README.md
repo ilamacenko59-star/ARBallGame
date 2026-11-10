@@ -19,7 +19,7 @@ AR-игра для Android на Unity: строишь на полу комнат
 
 | Папка / файл | Что там |
 |---|---|
-| `Assets/Scripts/UIButtonHandler.cs` | Кнопки Старт / Огонь / Сброс и переключение режимов (события, как в туториале) |
+| `Assets/Scripts/UIButtonHandler.cs` | Кнопки Старт / Огонь / Сброс и переключение режимов |
 | `Assets/Scripts/BuildController.cs` | Режим строительства: установка фигур тапом, отмена, поворот, очистка |
 | `Assets/Scripts/ShootBallLogic.cs` | Выстрел шаром из камеры |
 | `Assets/Scripts/EnablePhysicsOnEvent.cs` | Включение физики по кнопке «Старт» |
